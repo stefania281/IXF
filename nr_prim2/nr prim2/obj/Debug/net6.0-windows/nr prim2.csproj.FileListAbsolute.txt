@@ -1,0 +1,17 @@
+C:\Users\casie\source\repos\nr prim2\nr prim2\bin\Debug\net6.0-windows\nr prim2.exe
+C:\Users\casie\source\repos\nr prim2\nr prim2\bin\Debug\net6.0-windows\nr prim2.deps.json
+C:\Users\casie\source\repos\nr prim2\nr prim2\bin\Debug\net6.0-windows\nr prim2.runtimeconfig.json
+C:\Users\casie\source\repos\nr prim2\nr prim2\bin\Debug\net6.0-windows\nr prim2.dll
+C:\Users\casie\source\repos\nr prim2\nr prim2\bin\Debug\net6.0-windows\nr prim2.pdb
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.csproj.AssemblyReference.cache
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr_prim2.Form1.resources
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.csproj.GenerateResource.cache
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.AssemblyInfoInputs.cache
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.AssemblyInfo.cs
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.csproj.CoreCompileInputs.cache
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.dll
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\refint\nr prim2.dll
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.pdb
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\nr prim2.genruntimeconfig.cache
+C:\Users\casie\source\repos\nr prim2\nr prim2\obj\Debug\net6.0-windows\ref\nr prim2.dll
